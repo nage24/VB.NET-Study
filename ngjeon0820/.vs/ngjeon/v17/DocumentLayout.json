@@ -3,19 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\kissco\\Desktop\\jeon\\workspace\\vb.net study\\VB.NET-Study\\ngjeon0820\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5601ACB9-CD4D-46C2-B685-7197CBA6BA0D}|ngjeon\\ngjeon.vbproj|c:\\users\\kissco\\desktop\\jeon\\workspace\\vb.net study\\vb.net-study\\ngjeon0820\\ngjeon\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
-      "RelativeMoniker": "D:0:0:{5601ACB9-CD4D-46C2-B685-7197CBA6BA0D}|ngjeon\\ngjeon.vbproj|solutionrelative:ngjeon\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5601ACB9-CD4D-46C2-B685-7197CBA6BA0D}|ngjeon\\ngjeon.vbproj|c:\\users\\kissco\\desktop\\jeon\\workspace\\vb.net study\\vb.net-study\\ngjeon0820\\ngjeon\\ngjeon.vbproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{5601ACB9-CD4D-46C2-B685-7197CBA6BA0D}|ngjeon\\ngjeon.vbproj|solutionrelative:ngjeon\\ngjeon.vbproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5601ACB9-CD4D-46C2-B685-7197CBA6BA0D}|ngjeon\\ngjeon.vbproj|c:\\users\\kissco\\desktop\\jeon\\workspace\\vb.net study\\vb.net-study\\ngjeon0820\\ngjeon\\applicationevents.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{5601ACB9-CD4D-46C2-B685-7197CBA6BA0D}|ngjeon\\ngjeon.vbproj|solutionrelative:ngjeon\\applicationevents.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kissco\\source\\repos\\ngjeon\\ngjeon\\Form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+      "AbsoluteMoniker": "D:0:0:{F33C06ED-491A-461C-BF22-986A06E98A56}|ngjeon.vbproj|c:\\users\\kissco\\desktop\\jeon\\workspace\\vb.net study\\vb.net-study\\ngjeon0820\\ngjeon\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{F33C06ED-491A-461C-BF22-986A06E98A56}|ngjeon.vbproj|solutionrelative:ngjeon\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -36,44 +25,12 @@
               "ToolTip": "C:\\Users\\kissco\\Desktop\\jeon\\workspace\\vb.net study\\VB.NET-Study\\ngjeon0820\\ngjeon\\Form1.vb [\u30C7\u30B6\u30A4\u30F3]",
               "RelativeToolTip": "ngjeon\\Form1.vb [\u30C7\u30B6\u30A4\u30F3]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-08-21T07:15:32.106Z",
+              "WhenOpened": "2024-08-21T07:40:55.982Z",
               "EditorCaption": " [\u30C7\u30B6\u30A4\u30F3]"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ngjeon.vbproj",
-              "DocumentMoniker": "C:\\Users\\kissco\\Desktop\\jeon\\workspace\\vb.net study\\VB.NET-Study\\ngjeon0820\\ngjeon\\ngjeon.vbproj",
-              "RelativeDocumentMoniker": "ngjeon\\ngjeon.vbproj",
-              "ToolTip": "C:\\Users\\kissco\\Desktop\\jeon\\workspace\\vb.net study\\VB.NET-Study\\ngjeon0820\\ngjeon\\ngjeon.vbproj",
-              "RelativeToolTip": "ngjeon\\ngjeon.vbproj",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAAA4AAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003380|",
-              "WhenOpened": "2024-08-21T07:15:27.547Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ApplicationEvents.vb",
-              "DocumentMoniker": "C:\\Users\\kissco\\Desktop\\jeon\\workspace\\vb.net study\\VB.NET-Study\\ngjeon0820\\ngjeon\\ApplicationEvents.vb",
-              "RelativeDocumentMoniker": "ngjeon\\ApplicationEvents.vb",
-              "ToolTip": "C:\\Users\\kissco\\Desktop\\jeon\\workspace\\vb.net study\\VB.NET-Study\\ngjeon0820\\ngjeon\\ApplicationEvents.vb",
-              "RelativeToolTip": "ngjeon\\ApplicationEvents.vb",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-08-21T07:15:06.721Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Form1.vb",
-              "DocumentMoniker": "C:\\Users\\kissco\\source\\repos\\ngjeon\\ngjeon\\Form1.vb",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\source\\repos\\ngjeon\\ngjeon\\Form1.vb",
-              "ToolTip": "C:\\Users\\kissco\\source\\repos\\ngjeon\\ngjeon\\Form1.vb",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\source\\repos\\ngjeon\\ngjeon\\Form1.vb",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-08-20T06:56:14.568Z"
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
             }
           ]
         }

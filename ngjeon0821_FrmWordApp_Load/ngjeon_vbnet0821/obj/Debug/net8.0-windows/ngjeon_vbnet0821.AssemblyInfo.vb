@@ -16,7 +16,7 @@ Imports System.Reflection
 <Assembly: System.Reflection.AssemblyCompanyAttribute("ngjeon_vbnet0821"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Debug"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7caf053c3447bddde08bc2d1078d54162163506b"),  _
+ Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+36c5c8831ce115e137e6a88a82794b564c6791ee"),  _
  Assembly: System.Reflection.AssemblyProductAttribute("ngjeon_vbnet0821"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("ngjeon_vbnet0821"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0"),  _
