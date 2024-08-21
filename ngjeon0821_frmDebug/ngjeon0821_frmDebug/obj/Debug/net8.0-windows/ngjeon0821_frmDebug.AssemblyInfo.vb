@@ -16,7 +16,7 @@ Imports System.Reflection
 <Assembly: System.Reflection.AssemblyCompanyAttribute("ngjeon0821_frmDebug"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Debug"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0"),  _
+ Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7caf053c3447bddde08bc2d1078d54162163506b"),  _
  Assembly: System.Reflection.AssemblyProductAttribute("ngjeon0821_frmDebug"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("ngjeon0821_frmDebug"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0"),  _

@@ -11,10 +11,6 @@
       "RelativeMoniker": "D:0:0:{6E7099CF-581B-4D03-AC54-E9961E408D49}|ngjeon0821_frmDebug\\ngjeon0821_frmDebug.vbproj|solutionrelative:ngjeon0821_frmdebug\\my project\\application.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6E7099CF-581B-4D03-AC54-E9961E408D49}|ngjeon0821_frmDebug\\ngjeon0821_frmDebug.vbproj|c:\\users\\kissco\\source\\repos\\ngjeon0821_frmdebug\\ngjeon0821_frmdebug\\frmdebug.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{6E7099CF-581B-4D03-AC54-E9961E408D49}|ngjeon0821_frmDebug\\ngjeon0821_frmDebug.vbproj|solutionrelative:ngjeon0821_frmdebug\\frmdebug.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6E7099CF-581B-4D03-AC54-E9961E408D49}|ngjeon0821_frmDebug\\ngjeon0821_frmDebug.vbproj|c:\\users\\kissco\\source\\repos\\ngjeon0821_frmdebug\\ngjeon0821_frmdebug\\frmdebug.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
       "RelativeMoniker": "D:0:0:{6E7099CF-581B-4D03-AC54-E9961E408D49}|ngjeon0821_frmDebug\\ngjeon0821_frmDebug.vbproj|solutionrelative:ngjeon0821_frmdebug\\frmdebug.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
     }
@@ -26,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
@@ -36,22 +32,9 @@
               "RelativeDocumentMoniker": "ngjeon0821_frmDebug\\My Project\\Application.Designer.vb",
               "ToolTip": "C:\\Users\\kissco\\source\\repos\\ngjeon0821_frmDebug\\ngjeon0821_frmDebug\\My Project\\Application.Designer.vb",
               "RelativeToolTip": "ngjeon0821_frmDebug\\My Project\\Application.Designer.vb",
-              "ViewState": "AgIAABQAAAAAAAAAAAA5wCEAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAmwCEAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2024-08-21T06:28:23.081Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "frmDebug.Designer.vb",
-              "DocumentMoniker": "C:\\Users\\kissco\\source\\repos\\ngjeon0821_frmDebug\\ngjeon0821_frmDebug\\frmDebug.Designer.vb",
-              "RelativeDocumentMoniker": "ngjeon0821_frmDebug\\frmDebug.Designer.vb",
-              "ToolTip": "C:\\Users\\kissco\\source\\repos\\ngjeon0821_frmDebug\\ngjeon0821_frmDebug\\frmDebug.Designer.vb",
-              "RelativeToolTip": "ngjeon0821_frmDebug\\frmDebug.Designer.vb",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-08-21T06:24:06.854Z",
               "EditorCaption": ""
             },
             {
@@ -62,14 +45,14 @@
               "RelativeDocumentMoniker": "ngjeon0821_frmDebug\\frmDebug.vb",
               "ToolTip": "C:\\Users\\kissco\\source\\repos\\ngjeon0821_frmDebug\\ngjeon0821_frmDebug\\frmDebug.vb",
               "RelativeToolTip": "ngjeon0821_frmDebug\\frmDebug.vb",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2024-08-21T06:23:48.009Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "frmDebug.vb [\u30C7\u30B6\u30A4\u30F3]",
               "DocumentMoniker": "C:\\Users\\kissco\\source\\repos\\ngjeon0821_frmDebug\\ngjeon0821_frmDebug\\frmDebug.vb",
               "RelativeDocumentMoniker": "ngjeon0821_frmDebug\\frmDebug.vb",

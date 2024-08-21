@@ -1,0 +1,33 @@
+C:\Users\kissco\source\repos\ngjeon\ngjeon\bin\Debug\net8.0-windows\ngjeon.exe
+C:\Users\kissco\source\repos\ngjeon\ngjeon\bin\Debug\net8.0-windows\ngjeon.deps.json
+C:\Users\kissco\source\repos\ngjeon\ngjeon\bin\Debug\net8.0-windows\ngjeon.runtimeconfig.json
+C:\Users\kissco\source\repos\ngjeon\ngjeon\bin\Debug\net8.0-windows\ngjeon.dll
+C:\Users\kissco\source\repos\ngjeon\ngjeon\bin\Debug\net8.0-windows\ngjeon.pdb
+C:\Users\kissco\source\repos\ngjeon\ngjeon\obj\Debug\net8.0-windows\ngjeon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kissco\source\repos\ngjeon\ngjeon\obj\Debug\net8.0-windows\ngjeon.AssemblyInfoInputs.cache
+C:\Users\kissco\source\repos\ngjeon\ngjeon\obj\Debug\net8.0-windows\ngjeon.AssemblyInfo.vb
+C:\Users\kissco\source\repos\ngjeon\ngjeon\obj\Debug\net8.0-windows\ngjeon.vbproj.CoreCompileInputs.cache
+C:\Users\kissco\source\repos\ngjeon\ngjeon\obj\Debug\net8.0-windows\ngjeon.dll
+C:\Users\kissco\source\repos\ngjeon\ngjeon\obj\Debug\net8.0-windows\refint\ngjeon.dll
+C:\Users\kissco\source\repos\ngjeon\ngjeon\obj\Debug\net8.0-windows\ngjeon.pdb
+C:\Users\kissco\source\repos\ngjeon\ngjeon\obj\Debug\net8.0-windows\ngjeon.genruntimeconfig.cache
+C:\Users\kissco\source\repos\ngjeon\ngjeon\obj\Debug\net8.0-windows\ref\ngjeon.dll
+C:\Users\kissco\source\repos\ngjeon\ngjeon\obj\Debug\net8.0-windows\ngjeon.Form1.resources
+C:\Users\kissco\source\repos\ngjeon\ngjeon\obj\Debug\net8.0-windows\ngjeon.vbproj.GenerateResource.cache
+C:\Users\kissco\Desktop\jeon\workspace\vb.net study\VB.NET-Study\ngjeon0820\ngjeon\bin\Debug\net8.0-windows\ngjeon.exe
+C:\Users\kissco\Desktop\jeon\workspace\vb.net study\VB.NET-Study\ngjeon0820\ngjeon\bin\Debug\net8.0-windows\ngjeon.deps.json
+C:\Users\kissco\Desktop\jeon\workspace\vb.net study\VB.NET-Study\ngjeon0820\ngjeon\bin\Debug\net8.0-windows\ngjeon.runtimeconfig.json
+C:\Users\kissco\Desktop\jeon\workspace\vb.net study\VB.NET-Study\ngjeon0820\ngjeon\bin\Debug\net8.0-windows\ngjeon.dll
+C:\Users\kissco\Desktop\jeon\workspace\vb.net study\VB.NET-Study\ngjeon0820\ngjeon\bin\Debug\net8.0-windows\ngjeon.pdb
+C:\Users\kissco\Desktop\jeon\workspace\vb.net study\VB.NET-Study\ngjeon0820\ngjeon\obj\Debug\net8.0-windows\ngjeon.Form1.resources
+C:\Users\kissco\Desktop\jeon\workspace\vb.net study\VB.NET-Study\ngjeon0820\ngjeon\obj\Debug\net8.0-windows\ngjeon.vbproj.GenerateResource.cache
+C:\Users\kissco\Desktop\jeon\workspace\vb.net study\VB.NET-Study\ngjeon0820\ngjeon\obj\Debug\net8.0-windows\ngjeon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kissco\Desktop\jeon\workspace\vb.net study\VB.NET-Study\ngjeon0820\ngjeon\obj\Debug\net8.0-windows\ngjeon.AssemblyInfoInputs.cache
+C:\Users\kissco\Desktop\jeon\workspace\vb.net study\VB.NET-Study\ngjeon0820\ngjeon\obj\Debug\net8.0-windows\ngjeon.AssemblyInfo.vb
+C:\Users\kissco\Desktop\jeon\workspace\vb.net study\VB.NET-Study\ngjeon0820\ngjeon\obj\Debug\net8.0-windows\ngjeon.vbproj.CoreCompileInputs.cache
+C:\Users\kissco\Desktop\jeon\workspace\vb.net study\VB.NET-Study\ngjeon0820\ngjeon\obj\Debug\net8.0-windows\ngjeon.sourcelink.json
+C:\Users\kissco\Desktop\jeon\workspace\vb.net study\VB.NET-Study\ngjeon0820\ngjeon\obj\Debug\net8.0-windows\ngjeon.dll
+C:\Users\kissco\Desktop\jeon\workspace\vb.net study\VB.NET-Study\ngjeon0820\ngjeon\obj\Debug\net8.0-windows\refint\ngjeon.dll
+C:\Users\kissco\Desktop\jeon\workspace\vb.net study\VB.NET-Study\ngjeon0820\ngjeon\obj\Debug\net8.0-windows\ngjeon.pdb
+C:\Users\kissco\Desktop\jeon\workspace\vb.net study\VB.NET-Study\ngjeon0820\ngjeon\obj\Debug\net8.0-windows\ngjeon.genruntimeconfig.cache
+C:\Users\kissco\Desktop\jeon\workspace\vb.net study\VB.NET-Study\ngjeon0820\ngjeon\obj\Debug\net8.0-windows\ref\ngjeon.dll

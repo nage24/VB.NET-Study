@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kissco\\source\\repos\\ngjeon0821_frmDebug\\ngjeon0821_frmDebug\\ngjeon0821_frmDebug.vbproj",
+      "projectUniqueName": "C:\\Users\\kissco\\Desktop\\jeon\\workspace\\vb.net study\\VB.NET-Study\\ngjeon0821_frmDebug\\ngjeon0821_frmDebug\\ngjeon0821_frmDebug.vbproj",
       "projectName": "ngjeon0821_frmDebug",
-      "projectPath": "C:\\Users\\kissco\\source\\repos\\ngjeon0821_frmDebug\\ngjeon0821_frmDebug\\ngjeon0821_frmDebug.vbproj",
+      "projectPath": "C:\\Users\\kissco\\Desktop\\jeon\\workspace\\vb.net study\\VB.NET-Study\\ngjeon0821_frmDebug\\ngjeon0821_frmDebug\\ngjeon0821_frmDebug.vbproj",
       "packagesPath": "C:\\Users\\kissco\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kissco\\source\\repos\\ngjeon0821_frmDebug\\ngjeon0821_frmDebug\\obj\\",
+      "outputPath": "C:\\Users\\kissco\\Desktop\\jeon\\workspace\\vb.net study\\VB.NET-Study\\ngjeon0821_frmDebug\\ngjeon0821_frmDebug\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\kissco\\AppData\\Roaming\\NuGet\\NuGet.Config",
