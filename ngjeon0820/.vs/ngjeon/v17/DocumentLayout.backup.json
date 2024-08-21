@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kissco\\source\\repos\\ngjeon\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5601ACB9-CD4D-46C2-B685-7197CBA6BA0D}|ngjeon\\ngjeon.vbproj|c:\\users\\kissco\\source\\repos\\ngjeon\\ngjeon\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{5601ACB9-CD4D-46C2-B685-7197CBA6BA0D}|ngjeon\\ngjeon.vbproj|solutionrelative:ngjeon\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5601ACB9-CD4D-46C2-B685-7197CBA6BA0D}|ngjeon\\ngjeon.vbproj|c:\\users\\kissco\\source\\repos\\ngjeon\\ngjeon\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{5601ACB9-CD4D-46C2-B685-7197CBA6BA0D}|ngjeon\\ngjeon.vbproj|solutionrelative:ngjeon\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb [\u30C7\u30B6\u30A4\u30F3]",
+              "DocumentMoniker": "C:\\Users\\kissco\\source\\repos\\ngjeon\\ngjeon\\Form1.vb",
+              "RelativeDocumentMoniker": "ngjeon\\Form1.vb",
+              "ToolTip": "C:\\Users\\kissco\\source\\repos\\ngjeon\\ngjeon\\Form1.vb [\u30C7\u30B6\u30A4\u30F3]",
+              "RelativeToolTip": "ngjeon\\Form1.vb [\u30C7\u30B6\u30A4\u30F3]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-08-20T05:11:29.981Z",
+              "IsPinned": true,
+              "EditorCaption": " [\u30C7\u30B6\u30A4\u30F3]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\kissco\\source\\repos\\ngjeon\\ngjeon\\Form1.vb",
+              "RelativeDocumentMoniker": "ngjeon\\Form1.vb",
+              "ToolTip": "C:\\Users\\kissco\\source\\repos\\ngjeon\\ngjeon\\Form1.vb",
+              "RelativeToolTip": "ngjeon\\Form1.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-08-20T06:56:14.568Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

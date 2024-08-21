@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35208.52
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "ngjeon0821_frmDebug", "ngjeon0821_frmDebug\ngjeon0821_frmDebug.vbproj", "{6E7099CF-581B-4D03-AC54-E9961E408D49}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6E7099CF-581B-4D03-AC54-E9961E408D49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E7099CF-581B-4D03-AC54-E9961E408D49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E7099CF-581B-4D03-AC54-E9961E408D49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E7099CF-581B-4D03-AC54-E9961E408D49}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5E38D30F-100A-4D1E-9CAB-4D4AAD3C2FD5}
+	EndGlobalSection
+EndGlobal

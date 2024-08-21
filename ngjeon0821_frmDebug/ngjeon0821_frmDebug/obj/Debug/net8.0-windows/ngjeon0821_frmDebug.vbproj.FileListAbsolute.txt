@@ -1,0 +1,16 @@
+C:\Users\kissco\source\repos\ngjeon0821_frmDebug\ngjeon0821_frmDebug\bin\Debug\net8.0-windows\ngjeon0821_frmDebug.exe
+C:\Users\kissco\source\repos\ngjeon0821_frmDebug\ngjeon0821_frmDebug\bin\Debug\net8.0-windows\ngjeon0821_frmDebug.deps.json
+C:\Users\kissco\source\repos\ngjeon0821_frmDebug\ngjeon0821_frmDebug\bin\Debug\net8.0-windows\ngjeon0821_frmDebug.runtimeconfig.json
+C:\Users\kissco\source\repos\ngjeon0821_frmDebug\ngjeon0821_frmDebug\bin\Debug\net8.0-windows\ngjeon0821_frmDebug.dll
+C:\Users\kissco\source\repos\ngjeon0821_frmDebug\ngjeon0821_frmDebug\bin\Debug\net8.0-windows\ngjeon0821_frmDebug.pdb
+C:\Users\kissco\source\repos\ngjeon0821_frmDebug\ngjeon0821_frmDebug\obj\Debug\net8.0-windows\ngjeon0821_frmDebug.frmDebug.resources
+C:\Users\kissco\source\repos\ngjeon0821_frmDebug\ngjeon0821_frmDebug\obj\Debug\net8.0-windows\ngjeon0821_frmDebug.vbproj.GenerateResource.cache
+C:\Users\kissco\source\repos\ngjeon0821_frmDebug\ngjeon0821_frmDebug\obj\Debug\net8.0-windows\ngjeon0821_frmDebug.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kissco\source\repos\ngjeon0821_frmDebug\ngjeon0821_frmDebug\obj\Debug\net8.0-windows\ngjeon0821_frmDebug.AssemblyInfoInputs.cache
+C:\Users\kissco\source\repos\ngjeon0821_frmDebug\ngjeon0821_frmDebug\obj\Debug\net8.0-windows\ngjeon0821_frmDebug.AssemblyInfo.vb
+C:\Users\kissco\source\repos\ngjeon0821_frmDebug\ngjeon0821_frmDebug\obj\Debug\net8.0-windows\ngjeon0821_frmDebug.vbproj.CoreCompileInputs.cache
+C:\Users\kissco\source\repos\ngjeon0821_frmDebug\ngjeon0821_frmDebug\obj\Debug\net8.0-windows\ngjeon0821_frmDebug.dll
+C:\Users\kissco\source\repos\ngjeon0821_frmDebug\ngjeon0821_frmDebug\obj\Debug\net8.0-windows\refint\ngjeon0821_frmDebug.dll
+C:\Users\kissco\source\repos\ngjeon0821_frmDebug\ngjeon0821_frmDebug\obj\Debug\net8.0-windows\ngjeon0821_frmDebug.pdb
+C:\Users\kissco\source\repos\ngjeon0821_frmDebug\ngjeon0821_frmDebug\obj\Debug\net8.0-windows\ngjeon0821_frmDebug.genruntimeconfig.cache
+C:\Users\kissco\source\repos\ngjeon0821_frmDebug\ngjeon0821_frmDebug\obj\Debug\net8.0-windows\ref\ngjeon0821_frmDebug.dll

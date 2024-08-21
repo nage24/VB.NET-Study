@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ngjeon0821_frmDebug/1.0.0": {
+        "runtime": {
+          "ngjeon0821_frmDebug.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ngjeon0821_frmDebug/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
