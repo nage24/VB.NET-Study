@@ -1,0 +1,12 @@
+C:\Users\kissco\Desktop\jeon\workspace\vb.net study\VB.NET-Study\ngjeon_DataGridView\ngjeon0822_DataTable\ngjeon0822_DataTable\bin\Debug\ngjeon0822_DataTable.exe.config
+C:\Users\kissco\Desktop\jeon\workspace\vb.net study\VB.NET-Study\ngjeon_DataGridView\ngjeon0822_DataTable\ngjeon0822_DataTable\bin\Debug\ngjeon0822_DataTable.exe
+C:\Users\kissco\Desktop\jeon\workspace\vb.net study\VB.NET-Study\ngjeon_DataGridView\ngjeon0822_DataTable\ngjeon0822_DataTable\bin\Debug\ngjeon0822_DataTable.pdb
+C:\Users\kissco\Desktop\jeon\workspace\vb.net study\VB.NET-Study\ngjeon_DataGridView\ngjeon0822_DataTable\ngjeon0822_DataTable\bin\Debug\ngjeon0822_DataTable.xml
+C:\Users\kissco\Desktop\jeon\workspace\vb.net study\VB.NET-Study\ngjeon_DataGridView\ngjeon0822_DataTable\ngjeon0822_DataTable\obj\Debug\ngjeon0822_DataTable.vbproj.AssemblyReference.cache
+C:\Users\kissco\Desktop\jeon\workspace\vb.net study\VB.NET-Study\ngjeon_DataGridView\ngjeon0822_DataTable\ngjeon0822_DataTable\obj\Debug\ngjeon0822_DataTable.Resources.resources
+C:\Users\kissco\Desktop\jeon\workspace\vb.net study\VB.NET-Study\ngjeon_DataGridView\ngjeon0822_DataTable\ngjeon0822_DataTable\obj\Debug\ngjeon0822_DataTable.vbproj.GenerateResource.cache
+C:\Users\kissco\Desktop\jeon\workspace\vb.net study\VB.NET-Study\ngjeon_DataGridView\ngjeon0822_DataTable\ngjeon0822_DataTable\obj\Debug\ngjeon0822_DataTable.vbproj.CoreCompileInputs.cache
+C:\Users\kissco\Desktop\jeon\workspace\vb.net study\VB.NET-Study\ngjeon_DataGridView\ngjeon0822_DataTable\ngjeon0822_DataTable\obj\Debug\ngjeon0822_DataTable.exe
+C:\Users\kissco\Desktop\jeon\workspace\vb.net study\VB.NET-Study\ngjeon_DataGridView\ngjeon0822_DataTable\ngjeon0822_DataTable\obj\Debug\ngjeon0822_DataTable.xml
+C:\Users\kissco\Desktop\jeon\workspace\vb.net study\VB.NET-Study\ngjeon_DataGridView\ngjeon0822_DataTable\ngjeon0822_DataTable\obj\Debug\ngjeon0822_DataTable.pdb
+C:\Users\kissco\Desktop\jeon\workspace\vb.net study\VB.NET-Study\ngjeon_DataGridView\ngjeon0822_DataTable\ngjeon0822_DataTable\obj\Debug\ngjeon0822_DataTable.DataTable1.resources

@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kissco\\Desktop\\jeon\\workspace\\vb.net study\\VB.NET-Study\\ngjeon_DataGridView\\ngjeon0822_DataTable\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{19863DB9-E0ED-4621-B413-E4A32F36B131}|ngjeon0822_DataTable\\ngjeon0822_DataTable.vbproj|c:\\users\\kissco\\desktop\\jeon\\workspace\\vb.net study\\vb.net-study\\ngjeon_datagridview\\ngjeon0822_datatable\\ngjeon0822_datatable\\datatable1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{19863DB9-E0ED-4621-B413-E4A32F36B131}|ngjeon0822_DataTable\\ngjeon0822_DataTable.vbproj|solutionrelative:ngjeon0822_datatable\\datatable1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|ngjeon0822_DataTable||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19863DB9-E0ED-4621-B413-E4A32F36B131}|ngjeon0822_DataTable\\ngjeon0822_DataTable.vbproj|c:\\users\\kissco\\desktop\\jeon\\workspace\\vb.net study\\vb.net-study\\ngjeon_datagridview\\ngjeon0822_datatable\\ngjeon0822_datatable\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{19863DB9-E0ED-4621-B413-E4A32F36B131}|ngjeon0822_DataTable\\ngjeon0822_DataTable.vbproj|solutionrelative:ngjeon0822_datatable\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19863DB9-E0ED-4621-B413-E4A32F36B131}|ngjeon0822_DataTable\\ngjeon0822_DataTable.vbproj|c:\\users\\kissco\\desktop\\jeon\\workspace\\vb.net study\\vb.net-study\\ngjeon_datagridview\\ngjeon0822_datatable\\ngjeon0822_datatable\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{19863DB9-E0ED-4621-B413-E4A32F36B131}|ngjeon0822_DataTable\\ngjeon0822_DataTable.vbproj|solutionrelative:ngjeon0822_datatable\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19863DB9-E0ED-4621-B413-E4A32F36B131}|ngjeon0822_DataTable\\ngjeon0822_DataTable.vbproj|c:\\users\\kissco\\desktop\\jeon\\workspace\\vb.net study\\vb.net-study\\ngjeon_datagridview\\ngjeon0822_datatable\\ngjeon0822_datatable\\my project\\application.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{19863DB9-E0ED-4621-B413-E4A32F36B131}|ngjeon0822_DataTable\\ngjeon0822_DataTable.vbproj|solutionrelative:ngjeon0822_datatable\\my project\\application.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19863DB9-E0ED-4621-B413-E4A32F36B131}|ngjeon0822_DataTable\\ngjeon0822_DataTable.vbproj|c:\\users\\kissco\\desktop\\jeon\\workspace\\vb.net study\\vb.net-study\\ngjeon_datagridview\\ngjeon0822_datatable\\ngjeon0822_datatable\\datatable1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{19863DB9-E0ED-4621-B413-E4A32F36B131}|ngjeon0822_DataTable\\ngjeon0822_DataTable.vbproj|solutionrelative:ngjeon0822_datatable\\datatable1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19863DB9-E0ED-4621-B413-E4A32F36B131}|ngjeon0822_DataTable\\ngjeon0822_DataTable.vbproj|c:\\users\\kissco\\desktop\\jeon\\workspace\\vb.net study\\vb.net-study\\ngjeon_datagridview\\ngjeon0822_datatable\\ngjeon0822_datatable\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|8998e48e-b89a-4034-b66e-353d8c1fdc2e"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ngjeon0822_DataTable",
+              "DocumentMoniker": "C:\\Users\\kissco\\Desktop\\jeon\\workspace\\vb.net study\\VB.NET-Study\\ngjeon_DataGridView\\ngjeon0822_DataTable\\ngjeon0822_DataTable\\ngjeon0822_DataTable.vbproj",
+              "RelativeDocumentMoniker": "ngjeon0822_DataTable\\ngjeon0822_DataTable.vbproj",
+              "ToolTip": "C:\\Users\\kissco\\Desktop\\jeon\\workspace\\vb.net study\\VB.NET-Study\\ngjeon_DataGridView\\ngjeon0822_DataTable\\ngjeon0822_DataTable\\ngjeon0822_DataTable.vbproj",
+              "RelativeToolTip": "ngjeon0822_DataTable\\ngjeon0822_DataTable.vbproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-08-22T07:16:27.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\kissco\\Desktop\\jeon\\workspace\\vb.net study\\VB.NET-Study\\ngjeon_DataGridView\\ngjeon0822_DataTable\\ngjeon0822_DataTable\\App.config",
+              "RelativeDocumentMoniker": "ngjeon0822_DataTable\\App.config",
+              "ToolTip": "C:\\Users\\kissco\\Desktop\\jeon\\workspace\\vb.net study\\VB.NET-Study\\ngjeon_DataGridView\\ngjeon0822_DataTable\\ngjeon0822_DataTable\\App.config",
+              "RelativeToolTip": "ngjeon0822_DataTable\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-08-22T07:16:24.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Application.Designer.vb",
+              "DocumentMoniker": "C:\\Users\\kissco\\Desktop\\jeon\\workspace\\vb.net study\\VB.NET-Study\\ngjeon_DataGridView\\ngjeon0822_DataTable\\ngjeon0822_DataTable\\My Project\\Application.Designer.vb",
+              "RelativeDocumentMoniker": "ngjeon0822_DataTable\\My Project\\Application.Designer.vb",
+              "ToolTip": "C:\\Users\\kissco\\Desktop\\jeon\\workspace\\vb.net study\\VB.NET-Study\\ngjeon_DataGridView\\ngjeon0822_DataTable\\ngjeon0822_DataTable\\My Project\\Application.Designer.vb",
+              "RelativeToolTip": "ngjeon0822_DataTable\\My Project\\Application.Designer.vb",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAwCIAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-08-22T07:15:18.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form2.vb [\u30C7\u30B6\u30A4\u30F3]",
+              "DocumentMoniker": "C:\\Users\\kissco\\Desktop\\jeon\\workspace\\vb.net study\\VB.NET-Study\\ngjeon_DataGridView\\ngjeon0822_DataTable\\ngjeon0822_DataTable\\Form2.vb",
+              "RelativeDocumentMoniker": "ngjeon0822_DataTable\\Form2.vb",
+              "ToolTip": "C:\\Users\\kissco\\Desktop\\jeon\\workspace\\vb.net study\\VB.NET-Study\\ngjeon_DataGridView\\ngjeon0822_DataTable\\ngjeon0822_DataTable\\Form2.vb [\u30C7\u30B6\u30A4\u30F3]",
+              "RelativeToolTip": "ngjeon0822_DataTable\\Form2.vb [\u30C7\u30B6\u30A4\u30F3]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-08-22T07:14:24.73Z",
+              "EditorCaption": " [\u30C7\u30B6\u30A4\u30F3]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DataTable1.vb",
+              "DocumentMoniker": "C:\\Users\\kissco\\Desktop\\jeon\\workspace\\vb.net study\\VB.NET-Study\\ngjeon_DataGridView\\ngjeon0822_DataTable\\ngjeon0822_DataTable\\DataTable1.vb",
+              "RelativeDocumentMoniker": "ngjeon0822_DataTable\\DataTable1.vb",
+              "ToolTip": "C:\\Users\\kissco\\Desktop\\jeon\\workspace\\vb.net study\\VB.NET-Study\\ngjeon_DataGridView\\ngjeon0822_DataTable\\ngjeon0822_DataTable\\DataTable1.vb",
+              "RelativeToolTip": "ngjeon0822_DataTable\\DataTable1.vb",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAwDIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-08-22T07:13:03.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DataTable1.vb [\u30C7\u30B6\u30A4\u30F3]",
+              "DocumentMoniker": "C:\\Users\\kissco\\Desktop\\jeon\\workspace\\vb.net study\\VB.NET-Study\\ngjeon_DataGridView\\ngjeon0822_DataTable\\ngjeon0822_DataTable\\DataTable1.vb",
+              "RelativeDocumentMoniker": "ngjeon0822_DataTable\\DataTable1.vb",
+              "ToolTip": "C:\\Users\\kissco\\Desktop\\jeon\\workspace\\vb.net study\\VB.NET-Study\\ngjeon_DataGridView\\ngjeon0822_DataTable\\ngjeon0822_DataTable\\DataTable1.vb [\u30C7\u30B6\u30A4\u30F3]",
+              "RelativeToolTip": "ngjeon0822_DataTable\\DataTable1.vb [\u30C7\u30B6\u30A4\u30F3]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-08-22T07:12:53.006Z",
+              "EditorCaption": " [\u30C7\u30B6\u30A4\u30F3]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

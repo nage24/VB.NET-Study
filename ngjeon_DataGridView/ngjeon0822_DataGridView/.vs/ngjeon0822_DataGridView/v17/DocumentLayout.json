@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kissco\\Desktop\\jeon\\workspace\\vb.net study\\VB.NET-Study\\ngjeon_DataGridView\\ngjeon0822_DataGridView\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BDDD4E3A-321F-443C-A37D-48C91F902086}|ngjeon0822_DataGridView\\ngjeon0822_DataGridView.vbproj|c:\\users\\kissco\\desktop\\jeon\\workspace\\vb.net study\\vb.net-study\\ngjeon_datagridview\\ngjeon0822_datagridview\\ngjeon0822_datagridview\\0822_datatable.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{BDDD4E3A-321F-443C-A37D-48C91F902086}|ngjeon0822_DataGridView\\ngjeon0822_DataGridView.vbproj|solutionrelative:ngjeon0822_datagridview\\0822_datatable.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDDD4E3A-321F-443C-A37D-48C91F902086}|ngjeon0822_DataGridView\\ngjeon0822_DataGridView.vbproj|c:\\users\\kissco\\desktop\\jeon\\workspace\\vb.net study\\vb.net-study\\ngjeon_datagridview\\ngjeon0822_datagridview\\ngjeon0822_datagridview\\0822_datatable.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{BDDD4E3A-321F-443C-A37D-48C91F902086}|ngjeon0822_DataGridView\\ngjeon0822_DataGridView.vbproj|solutionrelative:ngjeon0822_datagridview\\0822_datatable.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 277,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "0822_DataTable.vb",
+              "DocumentMoniker": "C:\\Users\\kissco\\Desktop\\jeon\\workspace\\vb.net study\\VB.NET-Study\\ngjeon_DataGridView\\ngjeon0822_DataGridView\\ngjeon0822_DataGridView\\0822_DataTable.vb",
+              "RelativeDocumentMoniker": "ngjeon0822_DataGridView\\0822_DataTable.vb",
+              "ToolTip": "C:\\Users\\kissco\\Desktop\\jeon\\workspace\\vb.net study\\VB.NET-Study\\ngjeon_DataGridView\\ngjeon0822_DataGridView\\ngjeon0822_DataGridView\\0822_DataTable.vb",
+              "RelativeToolTip": "ngjeon0822_DataGridView\\0822_DataTable.vb",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAwwFcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-08-22T07:19:09.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "0822_DataTable.vb [\u30C7\u30B6\u30A4\u30F3]",
+              "DocumentMoniker": "C:\\Users\\kissco\\Desktop\\jeon\\workspace\\vb.net study\\VB.NET-Study\\ngjeon_DataGridView\\ngjeon0822_DataGridView\\ngjeon0822_DataGridView\\0822_DataTable.vb",
+              "RelativeDocumentMoniker": "ngjeon0822_DataGridView\\0822_DataTable.vb",
+              "ToolTip": "C:\\Users\\kissco\\Desktop\\jeon\\workspace\\vb.net study\\VB.NET-Study\\ngjeon_DataGridView\\ngjeon0822_DataGridView\\ngjeon0822_DataGridView\\0822_DataTable.vb [\u30C7\u30B6\u30A4\u30F3]",
+              "RelativeToolTip": "ngjeon0822_DataGridView\\0822_DataTable.vb [\u30C7\u30B6\u30A4\u30F3]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-08-22T07:17:38.893Z",
+              "EditorCaption": " [\u30C7\u30B6\u30A4\u30F3]"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 123,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+C:\Users\kissco\Desktop\jeon\workspace\vb.net study\VB.NET-Study\ngjeon_DataGridView\ngjeon0822_DataGridView\ngjeon0822_DataGridView\bin\Debug\ngjeon0822_DataGridView.exe.config
+C:\Users\kissco\Desktop\jeon\workspace\vb.net study\VB.NET-Study\ngjeon_DataGridView\ngjeon0822_DataGridView\ngjeon0822_DataGridView\bin\Debug\ngjeon0822_DataGridView.exe
+C:\Users\kissco\Desktop\jeon\workspace\vb.net study\VB.NET-Study\ngjeon_DataGridView\ngjeon0822_DataGridView\ngjeon0822_DataGridView\bin\Debug\ngjeon0822_DataGridView.pdb
+C:\Users\kissco\Desktop\jeon\workspace\vb.net study\VB.NET-Study\ngjeon_DataGridView\ngjeon0822_DataGridView\ngjeon0822_DataGridView\bin\Debug\ngjeon0822_DataGridView.xml
+C:\Users\kissco\Desktop\jeon\workspace\vb.net study\VB.NET-Study\ngjeon_DataGridView\ngjeon0822_DataGridView\ngjeon0822_DataGridView\obj\Debug\ngjeon0822_DataGridView.vbproj.AssemblyReference.cache
+C:\Users\kissco\Desktop\jeon\workspace\vb.net study\VB.NET-Study\ngjeon_DataGridView\ngjeon0822_DataGridView\ngjeon0822_DataGridView\obj\Debug\ngjeon0822_DataGridView.Form1.resources
+C:\Users\kissco\Desktop\jeon\workspace\vb.net study\VB.NET-Study\ngjeon_DataGridView\ngjeon0822_DataGridView\ngjeon0822_DataGridView\obj\Debug\ngjeon0822_DataGridView.Resources.resources
+C:\Users\kissco\Desktop\jeon\workspace\vb.net study\VB.NET-Study\ngjeon_DataGridView\ngjeon0822_DataGridView\ngjeon0822_DataGridView\obj\Debug\ngjeon0822_DataGridView.vbproj.GenerateResource.cache
+C:\Users\kissco\Desktop\jeon\workspace\vb.net study\VB.NET-Study\ngjeon_DataGridView\ngjeon0822_DataGridView\ngjeon0822_DataGridView\obj\Debug\ngjeon0822_DataGridView.vbproj.CoreCompileInputs.cache
+C:\Users\kissco\Desktop\jeon\workspace\vb.net study\VB.NET-Study\ngjeon_DataGridView\ngjeon0822_DataGridView\ngjeon0822_DataGridView\obj\Debug\ngjeon0822_DataGridView.exe
+C:\Users\kissco\Desktop\jeon\workspace\vb.net study\VB.NET-Study\ngjeon_DataGridView\ngjeon0822_DataGridView\ngjeon0822_DataGridView\obj\Debug\ngjeon0822_DataGridView.xml
+C:\Users\kissco\Desktop\jeon\workspace\vb.net study\VB.NET-Study\ngjeon_DataGridView\ngjeon0822_DataGridView\ngjeon0822_DataGridView\obj\Debug\ngjeon0822_DataGridView.pdb
