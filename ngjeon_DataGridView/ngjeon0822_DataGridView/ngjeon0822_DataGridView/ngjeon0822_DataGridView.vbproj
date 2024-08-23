@@ -73,6 +73,7 @@
     <Import Include="System.Threading.Tasks" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CreateDataTable.vb" />
     <Compile Include="0822_DataTable.vb">
       <SubType>Form</SubType>
     </Compile>
